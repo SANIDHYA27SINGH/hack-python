@@ -3,6 +3,6 @@ count = 1;
 for i in list:  
     if i == 4:  
         print("item matched")  
-        count = count + 4;  
+        count = count + 1;  
         break  
-print("found at",coun,"location");  
+print("found at",count,"location");  
